@@ -1,4 +1,4 @@
-[# 💫 About Me:
+💫 About Me:
 <br>👋 Hi, I’m Ashwini Sharma, <br> A passionate Business Analyst with 7+ years of experience in:<br>	•	🏗 Java API Development & Cloud Migration<br>	•	📊 Regulatory Reporting & Data Integration<br>	•	🤖 Machine Learning & AI-driven Solutions<br><br>🎓 Education & Certifications<br>	•	🎓 B.Tech in Computer Science (VTU)<br>	•	🎓 Business & Artificial Intelligence - IIM Bangalore<br>	•	🎖 AWS Certified Machine Learning Associate<br><br>🛠 Tech Stack<br><br>🔹 Languages: Java, Python, SQL<br>🔹 ML Libraries: TensorFlow, NLP, Pandas, NumPy<br>🔹 Frameworks & Tools: Spring Boot, Selenium, Tableau<br>🔹 Cloud & DevOps: AWS, Unix Shell Scripting, Git<br><br>📫 Let’s Connect!
 
 # 💻 Tech Stack:
