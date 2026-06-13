@@ -1,15 +1,11 @@
 # Hi, I'm Ashwini 👋
 
-Independent researcher working at the intersection of **quant finance**, 
-**AI systems**, and **data engineering**.
-
-I build things — econometric models, multi-agent pipelines, regulatory 
-platforms, and the occasional F1 assistant.
+Independent researcher at the intersection of **quant finance** and **AI systems**.
+I build econometric models, multi-agent pipelines, and regulatory platforms — usually from scratch, usually on GCP.
 
 ---
 
-🔭 Currently working on — GDP nowcasting, a content critique swarm, 
-and Polymarket microstructure research
+🔭 Currently working on — GDP nowcasting, a content critique swarm, and Polymarket microstructure research
 
 🌱 Always exploring — causal inference, LLM orchestration, prediction markets
 
