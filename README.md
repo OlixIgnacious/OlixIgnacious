@@ -28,4 +28,4 @@ and Polymarket microstructure research
 
 ---
 
-![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olixignacious&show_icons=true&theme=default&hide_border=true)
