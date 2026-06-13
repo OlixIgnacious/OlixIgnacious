@@ -1,8 +1,27 @@
-💫 About Me:
-<br>👋 Hi, I’m Ashwini Sharma, <br> A passionate Business Analyst with 7+ years of experience in:<br>	•	🏗 Java API Development & Cloud Migration<br>	•	📊 Regulatory Reporting & Data Integration<br>	•	🤖 Machine Learning & AI-driven Solutions<br><br>🎓 Education & Certifications<br>	•	🎓 B.Tech in Computer Science (VTU)<br>	•	🎓 Business & Artificial Intelligence - IIM Bangalore<br>	•	🎖 AWS Certified Machine Learning Associate<br><br>🛠 Tech Stack<br><br>🔹 Languages: Java, Python, SQL<br>🔹 ML Libraries: TensorFlow, NLP, Pandas, NumPy<br>🔹 Frameworks & Tools: Spring Boot, Selenium, Tableau<br>🔹 Cloud & DevOps: AWS, Unix Shell Scripting, Git<br><br>📫 Let’s Connect!
+# Hi, I'm Ashwini 👋
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+Independent researcher working at the intersection of **quant finance**, 
+**AI systems**, and **data engineering**.
 
-📫 Let’s Connect!
-](https://drive.google.com/drive/folders/1lB20J1Jc9CtopL3RV4OwcLytKR527NeI?usp=drive_link)
+I build things — econometric models, multi-agent pipelines, regulatory 
+platforms, and the occasional F1 assistant.
+
+---
+
+🔭 Currently working on — GDP nowcasting, a content critique swarm, 
+and Polymarket microstructure research
+
+🌱 Always exploring — causal inference, LLM orchestration, prediction markets
+
+📍 Bengaluru, India
+
+---
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
