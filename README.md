@@ -13,12 +13,21 @@ I build econometric models, multi-agent pipelines, and regulatory platforms. Usu
 
 ### Selected work
 
-| | |
-|---|---|
-| **Import duty pass-through in India's gold market** <br> [Paper (SSRN)](https://ssrn.com/abstract=7089359) · [Code](https://github.com/OlixIgnacious/gold-policy-analysis) | How much of the May 2026 duty hike from 6% to 15% reached domestic prices. Interrupted time series on a sharp, unanticipated policy change. Revised after referee review. |
-| **[Keyholdr](https://apps.apple.com/app/id6789253781)** | Native macOS API key vault with a CLI companion. Touch ID, Keychain-backed, no network access. Reached top 100 in Developer Tools. |
-| **LLMs as annotators** | Evaluating LLM annotation quality on financial sentiment. Financial PhraseBank, stratified across human-agreement bands; local open model vs. Gemini API. |
-| **GST nowcasting** | GDP nowcasting from GST filing data. MIDAS regression and bridge equations. |
+**Import duty pass-through in India's gold market**
+How much of the May 2026 duty hike from 6% to 15% reached domestic prices. Interrupted time series on a sharp, unanticipated policy change; revised after referee review.
+[Paper (SSRN)](https://ssrn.com/abstract=7089359) · [Code](https://github.com/OlixIgnacious/gold-policy-analysis)
+
+**Keyholdr**
+Native macOS API key vault with a CLI companion. Touch ID, Keychain-backed, no network access. Reached top 100 in Developer Tools.
+[Mac App Store](https://apps.apple.com/app/id6789253781)
+
+**LLMs as annotators**
+Evaluating LLM annotation quality on financial sentiment. Financial PhraseBank, stratified across human-agreement bands; local open model vs. Gemini API.
+
+**GST nowcasting**
+GDP nowcasting from GST filing data. MIDAS regression and bridge equations.
+
+---
 
 ### Currently
 
@@ -32,4 +41,4 @@ Seven years in software engineering — regulatory reporting platforms, cloud mi
 
 `python` · `sql` · `gcp` · `snowflake` · `fastapi` · `docker`
 
-[Keyholdr](https://apps.apple.com/app/id6789253781) · [SSRN](https://ssrn.com/abstract=7089359) · [your-email@example.com](mailto:your-email@example.com)
+[Keyholdr](https://apps.apple.com/app/id6789253781) · [SSRN](https://ssrn.com/abstract=7089359)
