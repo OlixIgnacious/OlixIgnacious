@@ -86,6 +86,23 @@ A fully offline AI assistant for Android. Gemma&nbsp;4 through LiteRT, on-device
 
 </td>
 </tr>
+
+<tr>
+<td width="34%" valign="top">
+
+**Cubie-X**
+
+`react` `firebase` `game`
+
+[Play&nbsp;→](https://cubiex.web.app) &nbsp;·&nbsp; [Code&nbsp;→](https://github.com/OlixIgnacious/cubie-x)
+
+</td>
+<td valign="top">
+
+A physics-based minimalist vector runner on the web. Frame-rate-independent deterministic physics so competition stays fair across devices, real-time Firestore leaderboards with rate limiting enforced in `firestore.rules`, and procedurally synthesised audio through the Web Audio API.
+
+</td>
+</tr>
 </table>
 
 <br>
