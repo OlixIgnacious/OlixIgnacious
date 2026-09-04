@@ -1,27 +1,35 @@
-# Hi, I'm Ashwini 👋
+# Ashwini Sharma
 
-Independent researcher at the intersection of **quant finance** and **AI systems**.
-I build econometric models, multi-agent pipelines, and regulatory platforms — usually from scratch, usually on GCP.
+Independent researcher — **quant finance × AI systems**.
 
----
+I build econometric models, multi-agent pipelines, and regulatory platforms. Usually from scratch, usually on GCP.
 
-🔭 Currently working on — GDP nowcasting, a content critique swarm, and Polymarket microstructure research
-
-🌱 Always exploring — causal inference, LLM orchestration, prediction markets
+[![SSRN](https://img.shields.io/badge/SSRN-Working%20Paper-1A1A1A?style=flat)](https://ssrn.com/abstract=7089359)
+[![Keyholdr — Mac App Store](https://img.shields.io/badge/Keyholdr-Mac%20App%20Store-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/app/id6789253781)
 
 📍 Bengaluru, India
 
 ---
 
-**Languages & Tools**
+### Selected work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+| | |
+|---|---|
+| **Import duty pass-through in India's gold market** <br> [Paper (SSRN)](https://ssrn.com/abstract=7089359) · [Code](https://github.com/OlixIgnacious/gold-policy-analysis) | How much of the May 2026 duty hike from 6% to 15% reached domestic prices. Interrupted time series on a sharp, unanticipated policy change. Revised after referee review. |
+| **[Keyholdr](https://apps.apple.com/app/id6789253781)** | Native macOS API key vault with a CLI companion. Touch ID, Keychain-backed, no network access. Reached top 100 in Developer Tools. |
+| **LLMs as annotators** | Evaluating LLM annotation quality on financial sentiment. Financial PhraseBank, stratified across human-agreement bands; local open model vs. Gemini API. |
+| **GST nowcasting** | GDP nowcasting from GST filing data. MIDAS regression and bridge equations. |
+
+### Currently
+
+Polymarket microstructure · a multi-agent content-critique swarm · Google Trends as a signal for Indian retail flows
+
+### Previously
+
+Seven years in software engineering — regulatory reporting platforms, cloud migration, Java. Built a Japan FSA reporting system on Snowflake with idempotent reconciliation, explicit allocation-status tracking, and audit-grade structured logging.
 
 ---
 
-![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olixignacious&show_icons=true&theme=default&hide_border=true)
+`python` · `sql` · `gcp` · `snowflake` · `fastapi` · `docker`
+
+[Keyholdr](https://apps.apple.com/app/id6789253781) · [SSRN](https://ssrn.com/abstract=7089359) · [your-email@example.com](mailto:your-email@example.com)
