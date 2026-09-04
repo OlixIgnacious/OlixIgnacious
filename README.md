@@ -103,6 +103,23 @@ A physics-based minimalist vector runner on the web. Frame-rate-independent dete
 
 </td>
 </tr>
+
+<tr>
+<td width="34%" valign="top">
+
+**scribe**
+
+`whisper` `cli` `fastapi`
+
+[Code&nbsp;→](https://github.com/OlixIgnacious/scribe)
+
+</td>
+<td valign="top">
+
+Local audio and video transcription — anything ffmpeg can open, out as text, SRT, WebVTT, JSON, or Markdown. Pluggable Whisper backends (portable CPU, or the Apple Silicon GPU), a CLI and an HTTP API. **No API keys, nothing uploaded.**
+
+</td>
+</tr>
 </table>
 
 <br>
