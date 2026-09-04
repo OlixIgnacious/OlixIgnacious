@@ -26,7 +26,7 @@
 
 `econometrics` `policy`
 
-[Paper&nbsp;→](https://ssrn.com/abstract=7089359) &nbsp;·&nbsp; [Code&nbsp;→](https://github.com/OlixIgnacious/gold-policy-analysis)
+[Paper&nbsp;→](https://ssrn.com/abstract=7089359) &nbsp;·&nbsp; [Code&nbsp;→](https://github.com/OlixIgnacious/gold-policy-project)
 
 </td>
 <td valign="top">
