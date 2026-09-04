@@ -56,14 +56,16 @@ Native macOS API key vault with a CLI companion. Touch ID, Keychain-backed, zero
 <tr>
 <td width="34%" valign="top">
 
-**LLMs as annotators**
+**F1 AI Orchestrator**
 
-`nlp` `evaluation`
+`multi-agent` `rag` `gcp`
+
+[Code&nbsp;→](https://github.com/OlixIgnacious/f1-ai-orchestrator)
 
 </td>
 <td valign="top">
 
-Evaluating LLM annotation quality on financial sentiment. Financial PhraseBank, stratified across human-agreement bands; a local open model against the Gemini API.
+A two-tier, six-agent system for Formula 1 analysis — telemetry, pit strategy, FIA regulation lookup, steward precedent. Google ADK for routing, AlloyDB **pgvector** for retrieval, FastF1 for race data, on Cloud Run and Vertex AI.
 
 </td>
 </tr>
@@ -71,14 +73,16 @@ Evaluating LLM annotation quality on financial sentiment. Financial PhraseBank, 
 <tr>
 <td width="34%" valign="top">
 
-**GST nowcasting**
+**Boxi**
 
-`time series` `macro`
+`on-device` `android` `llm`
+
+[Code&nbsp;→](https://github.com/OlixIgnacious/boxi-ai) &nbsp;·&nbsp; [APK&nbsp;→](https://github.com/OlixIgnacious/boxi-ai/releases/latest)
 
 </td>
 <td valign="top">
 
-GDP nowcasting from GST filing data, using MIDAS regression and bridge equations.
+A fully offline AI assistant for Android. Gemma&nbsp;4 through LiteRT, on-device speech and Kokoro TTS, vision and document Q&amp;A. Conversations live in local SQLite — **nothing leaves the phone**.
 
 </td>
 </tr>
@@ -88,7 +92,8 @@ GDP nowcasting from GST filing data, using MIDAS regression and bridge equations
 
 ## Currently
 
-> Polymarket microstructure &nbsp;·&nbsp; a multi-agent content-critique swarm &nbsp;·&nbsp; Google Trends as a signal for Indian retail flows
+> Polymarket microstructure &nbsp;·&nbsp; a multi-agent content-critique swarm &nbsp;·&nbsp; Google Trends as a signal for Indian retail flows<br>
+> GDP nowcasting from GST filings (MIDAS, bridge equations) &nbsp;·&nbsp; LLM annotation quality on financial sentiment
 
 ## Previously
 
